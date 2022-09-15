@@ -1,7 +1,8 @@
 # Cryptocurrencies
 ## Project overview
 
-We are using unsupervised learning process and cluster data and reduce our dimensions and  principal components using PCA. Here are the four deliverables:
+We are using unsupervised learning process and cluster data and reduce our dimensions and  principal components using PCA. 
+The 4 deliverables are as follows:
 
 Deliverable 1: Preprocessing the Data for PCA
 
